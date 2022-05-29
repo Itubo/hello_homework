@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/hello_homework/MainActivity.java
+ com.example.hello_homework.MainActivity
+com/example/hello_homework/BuildConfig.java
+ com.example.hello_homework.BuildConfig
